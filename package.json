@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@chainlink/contracts": "^1.1.1",
+    "@chainlink/contracts-ccip": "^1.4.0",
     "@openzeppelin/contracts": "^5.0.2"
   }
 }
