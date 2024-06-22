@@ -1,0 +1,27 @@
+{
+    "name": "Chainlink x Arbitrum - Cross-Chain NFT",
+    "description": "Tu primer NFT cross-chain realizado durante el side event de Chainlink x Arbitrum en la ETHSantiago 2024. ¡Felicidades!",
+    "image": "ipfs://QmTmTU3jCp1p6mzopNdsfHGS2HGRQvyMphfScFFonpSqFr",
+    "attributes": [
+        {
+            "trait_type": "Year",
+            "value": "0000"
+        },
+        {
+            "trait_type": "Age",
+            "value": "Forever"
+        },
+        {
+            "trait_type": "Team",
+            "value": "Lighters"
+        },
+        {
+            "trait_type": "G",
+            "value": "5"
+        },
+        {
+            "trait_type": "AB",
+            "value": "10"
+        }
+    ]
+}
