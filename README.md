@@ -1,7 +1,11 @@
-# ETHEREUM Santiago 2024
+# Ethereum Santiago 2024
 
 Aquí encontrarás todo el código que hemos utilizado para el side event de Ethereum Santiago organizado por Chainlink y Arbitrum.
 Y también el código utilizado durante los talleres en Ethereum Santiago 2024.
+
+- [Chainlink Documentation](https://docs.chain.link/)
+- [Chainlink Developer Hub](https://dev.chain.link/)
+- [Arbitrum Documentation](https://docs.arbitrum.io/welcome/get-started/)
 
 ## Requisitos
 
