@@ -6,13 +6,12 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract ArbitrumNFT is ERC721, ERC721URIStorage, Ownable {    
-    string constant TOKEN_URI = "ipfs://Qmd5Mwt2ZhCfcYbXMt8M7VDyLvsfebDjKoqfSCxpMYhTZc";    
-    //https://ipfs.io/ipfs/QmT3nSKpJrEUWgeqGNiQPNEWcP2cousZNfQ72qX8qnBtWk?filename=mainnet-chainlink-elf.json
+contract ETHSantiagoNFT is ERC721, ERC721URIStorage, Ownable {    
+    string constant TOKEN_URI = "ipfs://QmT4RFfHr6xURKrGnxkAork8yMKersPfn1q7xsaNyS3WWM";        
     uint256 private _nextTokenId;
     
     constructor()
-        ERC721("Avalanche x Chainlink NFT", "ACN")
+        ERC721("ETHSantiago Chainlink NFT", "ETHS")
         Ownable(msg.sender)
     {}
 

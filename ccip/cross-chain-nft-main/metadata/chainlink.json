@@ -1,0 +1,35 @@
+{
+    "name": "ETHSantiago2024 Chainlink - Cross-Chain NFT",
+    "description": "Tu primer NFT cross-chain realizado durante  ETHSantiago 2024. ¡Felicidades!",
+    "image": "ipfs://QmTgqnhFBMkfT9s8PHKcdXBn1f5bG3Q5hmBaR4U6hoTvb1",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 59
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 29
+        },
+        {
+            "trait_type": "Constitution",
+            "value": 18
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 46
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 66
+        },
+        {
+            "trait_type": "Charisma",
+            "value": 83
+        },
+        {
+            "trait_type": "Experience",
+            "value": 0
+        }
+    ]
+}
